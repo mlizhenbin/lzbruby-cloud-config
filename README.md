@@ -1,0 +1,3 @@
+# lzbruby-cloud-config
+
+init
